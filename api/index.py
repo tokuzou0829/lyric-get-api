@@ -32,5 +32,3 @@ def index(t):
     # 結果の表示
     print(div_text)
     return div_text.replace("\n", "<br>")
-
-app.run()
